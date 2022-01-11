@@ -11,8 +11,8 @@
 - Delivered 18 guest lectures on AI & Cloud Computing at various international platforms and Universities
 
 **Interests:**
+- Sharing the Himalayan wisdom on mindfulness at work - expanding potentials, positive work environment and sustainable growth in career.
 - A passionate photographer who loves exploring new perspectives of nature, landscapes and fashion.
-- Find more information on linktr.ee/anudeepsri
 
 **Connect with me on** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anudeepsri)

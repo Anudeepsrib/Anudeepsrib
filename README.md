@@ -42,8 +42,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anudeepsrib)](https://github.com/Anudeepsrib/github-readme-stats)
 
-<br />
-
-**Stats:**
-
-[![Anudeep's github stats](https://github-readme-stats.vercel.app/api?username=Anudeepsrib&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Anudeepsrib/github-readme-stats)

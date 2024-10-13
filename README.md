@@ -8,13 +8,13 @@
 
 ## Experience:
 
-:briefcase:	6 years of experience in driving any size and format of data towards insights and predictions using Azure cloud services. 
+:briefcase:	9 years of experience in driving any size and format of data towards insights and predictions using Azure cloud services. 
 
 :office_worker:	Led a team of 11, had been a part of huge teams, and had the experience of working independently for a product in the start-up environment. 
 
-:technologist:	2 years of mentoring fellow IT professionals in AI real-time case studies as part of the PGP program of UT Austin.
+:technologist:	3 years of mentoring fellow IT professionals in AI real-time case studies as part of the PGP program of UT Austin.
 
-:man_teacher:	Delivered 18 guest lectures on AI & Cloud Computing at various international platforms and Universities
+:man_teacher:	Delivered 28 guest lectures on AI & Cloud Computing at various international platforms and Universities
 
 <br />
 

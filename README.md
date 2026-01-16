@@ -1,9 +1,3 @@
-Below is a **substantively upgraded GitHub README** that reflects your actual depth, scope, and impact as a senior data and GenAI professional. It is written to signal credibility to engineers, hiring managers, and founders who scan GitHub profiles quickly, while remaining precise and defensible.
-
-You can copy-paste this directly into your `README.md`.
-
----
-
 ## 👋 Hi, I’m **Anudeepsri Bathina**
 
 I design, build, and scale **data-intensive and Generative AI systems** end to end — from raw ingestion and modeling to production-grade deployment on cloud platforms.

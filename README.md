@@ -75,12 +75,3 @@ API design, MLOps, model evaluation, secure deployments, performance optimizatio
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/anudeep.ai/)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCW1rT3pmWO9mGIE1S2tJVow?style=social)](http://youtube.com/c/AnudeepsriBathina)
 [![Follow](https://img.shields.io/twitter/follow/AnudeepSriB?style=social)](https://www.twitter.com/anudeepsrib)
-
-<br />
-
-## My Github summary:
-
-**Programming Languages:**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anudeepsrib)](https://github.com/Anudeepsrib/github-readme-stats)
-

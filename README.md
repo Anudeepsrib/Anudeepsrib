@@ -1,77 +1,89 @@
-## 👋 Hi, I’m **Anudeepsri Bathina**
+# 👋 Hi, I'm Anudeepsri Bathina
 
-I design, build, and scale **data-intensive and Generative AI systems** end to end — from raw ingestion and modeling to production-grade deployment on cloud platforms.
+**Principal / Lead AI Engineer** building **Generative AI, RAG, and Agentic AI systems** for real-world enterprise applications.
 
-My work sits at the intersection of **Data Science, Machine Learning, Generative AI, and Cloud Architecture**, with a strong bias toward systems that are explainable, secure, and usable in real enterprise environments.
-
----
-
-## 🧠 What I Work On
-
-* **Generative AI & LLM Systems**
-  Retrieval-Augmented Generation (RAG), agentic workflows, prompt engineering, evaluation, and governance for real-world use cases.
-
-* **Applied Data Science & ML**
-  Predictive modeling, NLP, semantic search, and analytics pipelines built on large-scale structured and unstructured data.
-
-* **Cloud-Native Engineering**
-  Designing and deploying production systems on **Azure and AWS**, with an emphasis on reliability, scalability, and cost awareness.
-
-* **End-to-End Ownership**
-  From problem framing and architecture to implementation, deployment, monitoring, and stakeholder communication.
+I design **production LLM platforms and data systems** from architecture to deployment across **Azure and AWS**.
 
 ---
 
-## 💼 Experience Snapshot
+## 📊 GitHub Activity
 
-* **10+ years** of hands-on experience delivering data, ML, and AI solutions across enterprise and product environments
-* **Led teams of up to 11 engineers**, while also thriving in high-ownership, independent product roles
-* Built and deployed **production GenAI systems** using Python, FastAPI, vector search, cloud AI services, and modern MLOps practices
-* Strong background in **Azure AI, Azure Data Services, AWS ML services**, and cloud-native architectures
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anudeepsrib&show_icons=true&count_private=true)
 
----
-
-## 🎓 Teaching, Mentoring & Thought Leadership
-
-* **3+ years** mentoring working professionals on applied AI and real-world case studies
-* **25+ guest lectures and workshops** delivered across universities, global platforms, and professional programs
-* Regularly help engineers bridge the gap between **theory and production-ready AI systems**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anudeepsrib&layout=compact)
 
 ---
 
-## 🧰 Core Tech Stack
+# 🚀 Featured AI Systems
 
-**Languages & Frameworks**
-Python, SQL, FastAPI, LangChain, Hugging Face, TensorFlow, PyTorch, Spark
+## 🩺 ClinIQ
+AI-powered clinical intelligence system designed to support healthcare workflows using **RAG pipelines and LLM reasoning**.
 
-**GenAI & Search**
-LLMs, RAG architectures, vector databases, semantic search, prompt evaluation
+**Key capabilities**
 
-**Cloud & Data Platforms**
-Azure (AI, Data, Compute), AWS (ML & data services), Docker, Kubernetes
+- Medical knowledge retrieval with vector search
+- Context-aware LLM reasoning
+- Healthcare workflow automation
 
-**Engineering Practices**
-API design, MLOps, model evaluation, secure deployments, performance optimization
+**Stack**
 
----
-
-## 🌱 Current Focus
-
-* Designing **privacy-aware, enterprise-grade GenAI platforms**
-* Improving **LLM reliability, grounding, and evaluation** in production systems
-* Building reusable architectures for **copilot-style AI assistants**
+Python · FastAPI · LangChain · Vector DB · Azure AI
 
 ---
 
-## 🎯 Interests Beyond Code
+## ⚙️ ShiftIQ
 
-* **Mindfulness at work** — sustainable growth, clarity, and long-term career compounding
-* **Photography** — nature, landscapes, and creative composition as a counterbalance to engineering rigor
+AI operations assistant that automates operational insights and scheduling decisions using **agentic workflows and LLM orchestration**.
 
+**Key capabilities**
 
-## Connect with me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anudeepsri)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/anudeepai/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/anudeep.ai/)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCW1rT3pmWO9mGIE1S2tJVow?style=social)](http://youtube.com/c/AnudeepsriBathina)
-[![Follow](https://img.shields.io/twitter/follow/AnudeepSriB?style=social)](https://www.twitter.com/anudeepsrib)
+- AI task orchestration
+- multi-agent reasoning pipelines
+- operational intelligence
+
+**Stack**
+
+LangGraph · Python · FastAPI · LLM APIs · Cloud deployment
+
+---
+
+# 🧠 Current Focus
+
+- **Agentic AI architectures**
+- **Enterprise RAG systems**
+- **LLM reliability and evaluation**
+- **Production GenAI platforms**
+
+---
+
+# 🧰 Core Tech Stack
+
+### Languages
+Python · SQL
+
+### AI / Machine Learning
+LLMs · RAG · LangChain · LangGraph · HuggingFace · PyTorch
+
+### Data Systems
+Vector Databases · Semantic Search · Data Pipelines · Feature Engineering
+
+### Cloud & Infrastructure
+Azure AI · AWS ML Services · Docker · Kubernetes
+
+---
+
+# 💼 Experience Snapshot
+
+- **10+ years** building production data and AI systems
+- Leading **AI engineering teams delivering enterprise GenAI platforms**
+- Architecting **end-to-end systems from ingestion → modeling → deployment**
+
+---
+
+# 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/anudeepsri)
+
+[YouTube](http://youtube.com/c/AnudeepsriBathina)
+
+[Instagram](https://www.instagram.com/anudeep.ai)

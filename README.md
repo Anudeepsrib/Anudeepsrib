@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Anudeepsri Bathina
+# Hi, I'm Anudeepsri Bathina
 
-**Principal / Lead AI Engineer** building **Generative AI, RAG, and Agentic AI systems** for real-world enterprise applications.
+AI Engineer working on **Generative AI, RAG systems, and agentic workflows**.
 
-I design **production LLM platforms and data systems** from architecture to deployment across **Azure and AWS**.
+Building production LLM applications using **Python, FastAPI, LangGraph, and cloud AI services (Azure / AWS)**.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anudeepsrib&show_icons=true&count_private=true)
 
@@ -14,76 +14,60 @@ I design **production LLM platforms and data systems** from architecture to depl
 
 ---
 
-# 🚀 Featured AI Systems
+## Featured Projects
 
-## 🩺 ClinIQ
-AI-powered clinical intelligence system designed to support healthcare workflows using **RAG pipelines and LLM reasoning**.
+### ClinIQ
+Clinical intelligence assistant built with retrieval-augmented generation.
 
-**Key capabilities**
+Key components
 
-- Medical knowledge retrieval with vector search
-- Context-aware LLM reasoning
-- Healthcare workflow automation
+- document ingestion pipeline
+- vector search
+- grounded LLM responses
+- FastAPI backend
 
-**Stack**
+Stack
 
-Python · FastAPI · LangChain · Vector DB · Azure AI
-
----
-
-## ⚙️ ShiftIQ
-
-AI operations assistant that automates operational insights and scheduling decisions using **agentic workflows and LLM orchestration**.
-
-**Key capabilities**
-
-- AI task orchestration
-- multi-agent reasoning pipelines
-- operational intelligence
-
-**Stack**
-
-LangGraph · Python · FastAPI · LLM APIs · Cloud deployment
+Python · LangChain · FastAPI · Vector DB · Azure AI
 
 ---
 
-# 🧠 Current Focus
+### ShiftIQ
 
-- **Agentic AI architectures**
-- **Enterprise RAG systems**
-- **LLM reliability and evaluation**
-- **Production GenAI platforms**
+Operations assistant using **agent orchestration and LLM reasoning**.
 
----
+Key components
 
-# 🧰 Core Tech Stack
+- agent workflows
+- scheduling insights
+- operational analytics
 
-### Languages
-Python · SQL
+Stack
 
-### AI / Machine Learning
-LLMs · RAG · LangChain · LangGraph · HuggingFace · PyTorch
-
-### Data Systems
-Vector Databases · Semantic Search · Data Pipelines · Feature Engineering
-
-### Cloud & Infrastructure
-Azure AI · AWS ML Services · Docker · Kubernetes
+LangGraph · Python · FastAPI · LLM APIs
 
 ---
 
-# 💼 Experience Snapshot
+## Current Work
 
-- **10+ years** building production data and AI systems
-- Leading **AI engineering teams delivering enterprise GenAI platforms**
-- Architecting **end-to-end systems from ingestion → modeling → deployment**
+- agentic AI architectures
+- enterprise RAG pipelines
+- LLM evaluation and reliability
+- production AI deployment
 
 ---
 
-# 🌐 Connect
+## Tech
 
-[LinkedIn](https://www.linkedin.com/in/anudeepsri)
+Python · SQL  
+LangChain · LangGraph · HuggingFace  
+FastAPI · Docker · Kubernetes  
+Azure AI · AWS ML
 
-[YouTube](http://youtube.com/c/AnudeepsriBathina)
+---
 
-[Instagram](https://www.instagram.com/anudeep.ai)
+## Links
+
+LinkedIn  
+YouTube  
+Instagram

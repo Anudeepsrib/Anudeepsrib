@@ -1,73 +1,33 @@
-# Hi, I'm Anudeepsri Bathina
+# Anudeepsri Bathina
 
-AI Engineer working on **Generative AI, RAG systems, and agentic workflows**.
-
-Building production LLM applications using **Python, FastAPI, LangGraph, and cloud AI services (Azure / AWS)**.
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anudeepsrib&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anudeepsrib&layout=compact)
+AI Architect building enterprise-grade AI systems for regulated industries.  
+Focus areas: agentic workflows, RAG architectures, LLM evaluation, and local inference.
 
 ---
 
-## Featured Projects
+## Active Projects
 
-### ClinIQ
-Clinical intelligence assistant built with retrieval-augmented generation.
+**[ClinIQ](https://github.com/Anudeepsrib/ClinIQ)**  
+Healthcare RAG platform with multimodal embeddings, local inference via Ollama/vLLM, and an Azure OpenAI model switcher.  
+`Python` `LangChain` `FastAPI` `Gemini Embeddings` `Gemma 4` `Azure OpenAI`
 
-Key components
-
-- document ingestion pipeline
-- vector search
-- grounded LLM responses
-- FastAPI backend
-
-Stack
-
-Python · LangChain · FastAPI · Vector DB · Azure AI
+**ShiftIQ**  
+Code migration assistant using agent orchestration and LLM reasoning for legacy modernization workflows.  
+`LangGraph` `Python` `FastAPI`
 
 ---
 
-### ShiftIQ
+## Stack
 
-Operations assistant using **agent orchestration and LLM reasoning**.
-
-Key components
-
-- agent workflows
-- scheduling insights
-- operational analytics
-
-Stack
-
-LangGraph · Python · FastAPI · LLM APIs
+`Python` `SQL` `LangChain` `LangGraph` `HuggingFace` `FastAPI` `Docker` `Azure AI` `AWS ML`
 
 ---
 
-## Current Work
+## Stats
 
-- agentic AI architectures
-- enterprise RAG pipelines
-- LLM evaluation and reliability
-- production AI deployment
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anudeepsrib&show_icons=true&count_private=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anudeepsrib&layout=compact&hide_border=true&theme=default)
 
 ---
 
-## Tech
-
-Python · SQL  
-LangChain · LangGraph · HuggingFace  
-FastAPI · Docker · Kubernetes  
-Azure AI · AWS ML
-
----
-
-## Links
-
-LinkedIn  
-YouTube  
-Instagram
+[LinkedIn](https://www.linkedin.com/in/anudeepsri) · [Portfolio](https://www.anudeepsri.com) · [YouTube](http://youtube.com/c/AnudeepsriBathina)

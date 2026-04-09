@@ -23,11 +23,4 @@ Code migration assistant using agent orchestration and LLM reasoning for legacy 
 
 ---
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anudeepsrib&show_icons=true&count_private=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anudeepsrib&layout=compact&hide_border=true&theme=default)
-
----
-
 [LinkedIn](https://www.linkedin.com/in/anudeepsri) · [Portfolio](https://www.anudeepsri.com) · [YouTube](http://youtube.com/c/AnudeepsriBathina)
